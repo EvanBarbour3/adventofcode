@@ -8,9 +8,10 @@ Solutions are currently written in:
 
 ## Usage
 
-| **Year** | **Day** | **Description**              | **Usage**        | **Notes** |
-| -------- | ------- | ---------------------------- | ---------------- | --------- |
-| 2022     | 01      | Calorie counting             | `python3 run.py` |           |
-| 2021     | 02      | Submarine sonar directions   | `python3 run.py` |           |
-| 2021     | 01      | Submarine sonar measurements | `python3 run.py` |           |
+| **Year** | **Day** | **Description**                 | **Usage**        | **Notes** |
+|----------|---------|---------------------------------|------------------|-----------|
+| 2022     | 01      | Calorie counting                | `python3 run.py` |           |
+| 2021     | 02      | Submarine binary bit comaprison | `python3 run.py` |           |
+| 2021     | 02      | Submarine sonar directions      | `python3 run.py` |           |
+| 2021     | 01      | Submarine sonar measurements    | `python3 run.py` |           |
 
