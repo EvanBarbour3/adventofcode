@@ -10,6 +10,7 @@ Solutions are currently written in:
 
 | **Year** | **Day** | **Description**                 | **Usage**        | **Notes** |
 |----------|---------|---------------------------------|------------------|-----------|
+| 2022     | 02      | Rock paper scissors             | `python3 run.py` |           |
 | 2022     | 01      | Calorie counting                | `python3 run.py` |           |
 | 2021     | 02      | Submarine binary bit comaprison | `python3 run.py` |           |
 | 2021     | 02      | Submarine sonar directions      | `python3 run.py` |           |
