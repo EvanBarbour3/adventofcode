@@ -8,12 +8,22 @@ Solutions are currently written in:
 
 ## Usage
 
-| **Year** | **Day** | **Description**                 | **Usage**        | **Notes** |
-|----------|---------|---------------------------------|------------------|-----------|
-| 2022     | 02      | Rock paper scissors             | `python3 run.py` |           |
-| 2022     | 01      | Calorie counting                | `python3 run.py` |           |
-| 2021     | 04      | Giant squid                     | `python3 run.py` |           |
-| 2021     | 03      | Submarine binary bit comaprison | `python3 run.py` |           |
-| 2021     | 02      | Submarine sonar directions      | `python3 run.py` |           |
-| 2021     | 01      | Submarine sonar measurements    | `python3 run.py` |           |
+| **Year** | **Day** | **Description**     | **Usage**        | **Notes** |
+|----------|---------|---------------------|------------------|-----------|
+| 2022     | 02      | Rock Paper Scissors | `python3 run.py` |           |
+| 2022     | 01      | Calorie Counting    | `python3 run.py` |           |
+| 2021     | 04      | Giant Squid         | `python3 run.py` |           |
+| 2021     | 03      | Binary Diagnostic   | `python3 run.py` |           |
+| 2021     | 02      | Dive!               | `python3 run.py` |           |
+| 2021     | 01      | Sonar Sweep         | `python3 run.py` |           |
+
+## Notes
+
+Whilst I try to follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), I appreciate this repository isn't an application or have any automated tools ontop of it. As such, I treat the following messages as appropriate:
+
+- `feat(2020-12-24): Lobby Layout` for current advents
+- `chore(2020-12-24): Lobby Layout` for previous advents
+- `docs: Updated README.md` for documentation updates
+- `fix(2020-12-24): Include \n` for fixes or edge cases
+- `style(2020-12-24): Renamed directory` for structure
 
