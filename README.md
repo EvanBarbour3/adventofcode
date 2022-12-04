@@ -10,6 +10,7 @@ Solutions are currently written in:
 
 | **Year** | **Day** | **Description**         | **Usage**        | **Notes** |
 |----------|---------|-------------------------|------------------|-----------|
+| 2022     | 04      | Camp Cleanup            | `python3 run.py` |           |
 | 2022     | 03      | Rucksack Reorganisation | `python3 run.py` |           |
 | 2022     | 02      | Rock Paper Scissors     | `python3 run.py` |           |
 | 2022     | 01      | Calorie Counting        | `python3 run.py` |           |
