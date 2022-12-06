@@ -10,6 +10,7 @@ Solutions are currently written in:
 
 | **Year** | **Day** | **Description**         | **Usage**        | **Notes** |
 |----------|---------|-------------------------|------------------|-----------|
+| 2022     | 06      | Tuning Trouble          | `python3 run.py` |           |
 | 2022     | 05      | Supply Stacks           | `python3 run.py` |           |
 | 2022     | 04      | Camp Cleanup            | `python3 run.py` |           |
 | 2022     | 03      | Rucksack Reorganisation | `python3 run.py` |           |
