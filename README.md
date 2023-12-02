@@ -10,6 +10,7 @@ Solutions are currently written in:
 
 | **Year** | **Day** | **Description**         | **Usage**        | **Notes** |
 |----------|---------|-------------------------|------------------|-----------|
+| 2023     | 02      | Cube Conundrum          | `python3 run.py` |           |
 | 2023     | 01      | Trebuchet?!             | `python3 run.py` |           |
 | 2022     | 06      | Tuning Trouble          | `python3 run.py` |           |
 | 2022     | 05      | Supply Stacks           | `python3 run.py` |           |
