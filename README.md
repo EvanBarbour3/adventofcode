@@ -19,6 +19,7 @@ Solutions are currently written in:
 | 2022     | 03      | Rucksack Reorganisation | `python3 run.py` |           |
 | 2022     | 02      | Rock Paper Scissors     | `python3 run.py` |           |
 | 2022     | 01      | Calorie Counting        | `python3 run.py` |           |
+| 2021     | 07      | The Treachery of Whales | `python3 run.py` |           |
 | 2021     | 06      | Lanternfish             | `python3 run.py` |           |
 | 2021     | 05      | Hydrothermal Venture    | `python3 run.py` |           |
 | 2021     | 04      | Giant Squid             | `python3 run.py` |           |
