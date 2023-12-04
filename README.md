@@ -10,6 +10,7 @@ Solutions are currently written in:
 
 | **Year** | **Day** | **Description**         | **Usage**        | **Notes** |
 |----------|---------|-------------------------|------------------|-----------|
+| 2023     | 04      | Scratchcards            | `python3 run.py` |           |
 | 2023     | 03      | Gear Ratios             | `python3 run.py` |           |
 | 2023     | 02      | Cube Conundrum          | `python3 run.py` |           |
 | 2023     | 01      | Trebuchet?!             | `python3 run.py` |           |
