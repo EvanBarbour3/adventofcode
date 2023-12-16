@@ -10,6 +10,7 @@ Solutions are currently written in:
 
 | **Year** | **Day** | **Description**                 | **Usage**        | **Notes** |
 |----------|---------|---------------------------------|------------------|-----------|
+| 2023     | 08      | Haunted Wasteland               | `python3 run.py` | **        |
 | 2023     | 06      | Wait For It                     | `python3 run.py` | **        |
 | 2023     | 05      | If You Give A Seed A Fertilizer | `python3 run.py` | *         |
 | 2023     | 04      | Scratchcards                    | `python3 run.py` | **        |
