@@ -10,6 +10,7 @@ Solutions are currently written in:
 
 | **Year** | **Day** | **Description**                 | **Usage**        | **Notes** |
 |----------|---------|---------------------------------|------------------|-----------|
+| 2024     | 07      | Bridge Repair                   | `python3 run.py` | **        |
 | 2024     | 06      | Guard Gallivant                 | `python3 run.py` | **        |
 | 2024     | 05      | Print Queue                     | `python3 run.py` | *         |
 | 2024     | 04      | Ceres Search                    | `python3 run.py` | **        |
