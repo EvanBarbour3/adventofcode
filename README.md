@@ -10,6 +10,12 @@ Solutions are currently written in:
 
 | **Year** | **Day** | **Description**                 | **Usage**        | **Notes** |
 |----------|---------|---------------------------------|------------------|-----------|
+| 2024     | 06      | Guard Gallivant                 | `python3 run.py` | **        |
+| 2024     | 05      | Print Queue                     | `python3 run.py` | *         |
+| 2024     | 04      | Ceres Search                    | `python3 run.py` | **        |
+| 2024     | 03      | Mull It Over                    | `python3 run.py` | **        |
+| 2024     | 02      | Red Nosed Reports               | `python3 run.py` | **        |
+| 2024     | 01      | Historian Hysteria              | `python3 run.py` | **        |
 | 2023     | 08      | Haunted Wasteland               | `python3 run.py` | **        |
 | 2023     | 06      | Wait For It                     | `python3 run.py` | **        |
 | 2023     | 05      | If You Give A Seed A Fertilizer | `python3 run.py` | *         |
